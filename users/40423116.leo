@@ -87,11 +87,11 @@ Author: 40423116
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://cms-nfuhouses.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
+&lt;a href="http://cmsimply-read40423116.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
 
 &lt;a href="http://40423116.github.io/Blog/post/index.html"&gt;Pelican&lt;/a&gt;
 
-&lt;a href="http://wp-nfuhouses.rhcloud.com/"&gt;WordPress&lt;/a&gt;
+&lt;a href="http://wp-read40423116.rhcloud.com/"&gt;WordPress&lt;/a&gt;
 </t>
 <t tx="leo.20160408095026.1"></t>
 <t tx="leo.20160408095046.1">@language python
