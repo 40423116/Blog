@@ -20,7 +20,7 @@
 <v t="leo.20160408095101.1"><vh>@button edit-to-wp </vh></v>
 <v t="leo.20160408095102.1"><vh>@button get-from-wp</vh></v>
 </v>
-<v t="amd.20160329163719.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="amd.20160329163719.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="amd.20160329163719.2"><vh>@button local pelican</vh></v>
 </v>
 <v t="amd.20160329162138.1" a="E"><vh>設定檔案</vh>
@@ -124,8 +124,8 @@ def get_cat_tag_content(data):
 os.environ['TZ'] = 'Asia/Taipei'
  
 #################################
-filepath = "E:/password.txt"
-wordpress = "wp-nfuhouses.rhcloud.com/"
+filepath = "y:/tmp/password.txt"
+wordpress = "wp-read40423116.rhcloud.com"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -204,8 +204,8 @@ def get_cat_tag_content(data):
 os.environ['TZ'] = 'Asia/Taipei'
  
 #################################
-filepath = "E:/password.txt"
-wordpress = "wp-nfuhouses.rhcloud.com/"
+filepath = "y:/tmp/password.txt"
+wordpress = "wp-read40423116.rhcloud.com"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
@@ -258,8 +258,8 @@ import xmlrpc.client
 import html
  
 #################################
-filepath = "E:/password.txt"
-wordpress = "wp-nfuhouses.rhcloud.com/"
+filepath = "y:/tmp/password.txt"
+wordpress = "wp-read40423116.rhcloud.com"
 fo = open(filepath, "r+")
 data = []
 for line in fo.readlines():
