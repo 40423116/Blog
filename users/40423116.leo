@@ -34,10 +34,11 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="amd.20160329125251.1" a="E"><vh>@clean template-20160329.md</vh>
+<v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh>
 <v t="leo.20160408101406.1"><vh>7</vh></v>
 </v>
 <v t="leo.20160401114622.1"><vh>@clean admin-20160401.md</vh></v>
+<v t="leo.20160427152909.1"><vh>@clean 期中報告-20160427.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -50,7 +51,7 @@
 Title: template-啟動電腦輔助機械設計手冊編輯
 Category: 規劃
 Tags: CADLAB, Ｍanual, MCAD
-Author: kmol
+Author: 40423116
 @others
 手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.
 
@@ -318,5 +319,21 @@ p.b = line1 + line2 + line3 + line4 + line5 + post_content + "\n"
 c.redraw() 
 g.es("資料已經取回")</t>
 <t tx="leo.20160408101406.1"></t>
+<t tx="leo.20160427152909.1">@language md
+Title: admin-期中報告
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423116
+@others
+個人網際內容管理
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="http://cmsimply-read40423116.rhcloud.com/get_page?heading=head+1"&gt;CMSimply&lt;/a&gt;
+
+&lt;a href="http://40423116.github.io/Blog/post/index.html"&gt;Pelican&lt;/a&gt;
+
+&lt;a href="http://wp-read40423116.rhcloud.com/"&gt;WordPress&lt;/a&gt;
+</t>
 </tnodes>
 </leo_file>
