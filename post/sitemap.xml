@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-04-28T17:06:11-00:00</lastmod>
+<lastmod>2016-04-28T17:08:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-04-28T17:06:11-00:00</lastmod>
+<lastmod>2016-04-28T17:08:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-04-28T17:06:11-00:00</lastmod>
+<lastmod>2016-04-28T17:08:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-04-28T17:06:11-00:00</lastmod>
+<lastmod>2016-04-28T17:08:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,13 +67,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/mcad.html</loc>
-<lastmod>2016-04-28T17:04:29+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/cadlab.html</loc>
 <lastmod>2016-04-28T17:04:29+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -82,6 +75,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/manual.html</loc>
+<lastmod>2016-04-28T17:04:29+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/mcad.html</loc>
 <lastmod>2016-04-28T17:04:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

@@ -319,9 +319,6 @@ Author: 40423116
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-
-
-
 &lt;h3&gt;&lt;a href="https://cmsimply-read40423116.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href="http://40423116.github.io/Blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;a href="http://wp-read40423116.rhcloud.com/"&gt;WordPress 動態網誌&lt;/a&gt;&lt;/h3&gt;
