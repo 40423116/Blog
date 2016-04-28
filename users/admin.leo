@@ -35,7 +35,10 @@
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="leo.20160401114622.1" a="E"><vh>@clean admin-20160401.md</vh>
-<v t="leo.20160425224655.1"><vh>11</vh></v>
+<v t="leo.20160429000043.1"><vh>155</vh></v>
+</v>
+<v t="leo.20160429000051.1" a="E"><vh>@clean 40423116-0428.md</vh>
+<v t="leo.20160429000051.2"><vh>146</vh></v>
 </v>
 </v>
 </v>
@@ -305,6 +308,41 @@ p.b = line1 + line2 + line3 + line4 + line5 + post_content + "\n"
 # 因為節點資料更新, commander 必須 redraw
 c.redraw() 
 g.es("資料已經取回")</t>
-<t tx="leo.20160425224655.1"></t>
+<t tx="leo.20160429000043.1"></t>
+<t tx="leo.20160429000051.1">@language md
+Title: 40423116-期中報告
+Category: Uncategorized
+Tags: CADLAB, Ｍanual, MCAD
+Author: 40423116
+@others
+40423116-期中報告
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+
+
+
+&lt;h3&gt;&lt;a href="https://cmsimply-read40423116.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="http://40423116.github.io/Blog/post/index.html"&gt;Pelican 靜態網址&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="http://wp-read40423116.rhcloud.com/"&gt;WordPress 動態網誌&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h1&gt;&lt;span style="color: #ff00ff;"&gt;1.網路線製作流程紀錄，至少完成一條568B網路線及一條跳線並拍攝測試成功過程影片&lt;/span&gt;&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/164574758" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+&lt;a href="https://vimeo.com/164574758"&gt;跳腺測試&lt;/a&gt; from &lt;a href="https://vimeo.com/user46450524"&gt;40423116&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+
+&lt;iframe src="https://player.vimeo.com/video/164577214" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+&lt;a href="https://vimeo.com/164577214"&gt;網路線測試&lt;/a&gt; from &lt;a href="https://vimeo.com/user46450524"&gt;40423116&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+&lt;h1&gt;&lt;span style="color: #ff00ff;"&gt;2.認領一段系上網路配置，完成實體拍照上傳，完成網路配置繪圖，網路線查驗替換及執行過程討論&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;a href="https://cmsimply-read40423116.rhcloud.com/get_page?heading=%3Cspan%3E%3Cspan%3E%E5%AF%A6%E9%AB%94%E6%8B%8D%E7%85%A7%3C%2Fspan%3E%3C%2Fspan%3E"&gt;實體拍照&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h1&gt;&lt;span style="color: #ff00ff;"&gt;3.完成樹莓派3 B型的虛擬規劃與cadlab中的應用流程介紹&lt;/span&gt;&lt;/h1&gt;
+&lt;h1&gt;&lt;span style="color: #ff00ff;"&gt;4.利用三個按鈕將上述內容在python與WordPress的的中以同步處理&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;a href="http://wp-read40423116.rhcloud.com/"&gt;WordPress 動態網誌&lt;/a&gt;&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/164586263" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/164586263"&gt;按鈕&lt;/a&gt; from &lt;a href="https://vimeo.com/user46450524"&gt;40423116&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20160429000051.2"></t>
 </tnodes>
 </leo_file>
