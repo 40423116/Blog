@@ -34,13 +34,13 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="leo.20160401114622.1" a="E"><vh>@clean admin-20160401.md</vh>
+<v t="leo.20160401114622.1"><vh>@clean admin-20160401.md</vh>
 <v t="leo.20160429000043.1"><vh>155</vh></v>
 </v>
 <v t="leo.20160429000051.1"><vh>@clean 40423116-0428.md</vh>
 <v t="leo.20160429000051.2"><vh>146</vh></v>
 </v>
-<v t="leo.20160506102049.1" a="E"><vh>@clean 40423116-0506.md</vh>
+<v t="leo.20160506102049.1"><vh>@clean 40423116-0506.md</vh>
 <v t="leo.20160506104441.1"><vh>159</vh></v>
 </v>
 </v>
@@ -358,14 +358,15 @@ Author: 40423116
 &lt;script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"&gt;&lt;/script&gt;
  
 &lt;script&gt;
-window.onload=function(){
-brython(1);
-}
+//&lt;!--
+window.onload=function(){brython(1);}
+//--&gt;
 &lt;/script&gt;
  
 &lt;svg width="800" height="600" viewBox="0 0 800 600" id="svgout"&gt;&lt;/svg&gt;
  
 &lt;script type="text/python"&gt;
+#&lt;!--
 from javascript import JSConstructor
 from browser import alert
 from browser import window, document
@@ -416,12 +417,14 @@ c4 = s.circle(25,25,10).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth
 g4 = s.group(r4,c4).attr({ 'id': 'g4' });
 g4.appendTo( g3 )
 g4.animate( { 'transform' : 'r360,25,25' },4000)
+#--&gt;
 &lt;/script&gt;
 
  
 &lt;svg width="800" height="700" viewBox="0 0 800 700" id="svgout1"&gt;&lt;/svg&gt;
  
 &lt;script type="text/python"&gt;
+#&lt;!!--
 from javascript import JSConstructor
 from browser import alert
 from browser import window, document
@@ -469,6 +472,7 @@ document['rect'].bind('click', rtoyellow)
 document['circle'].bind('click', ctogreen)
 document['tux'].bind('mouseover', hoverover)
 document['tux'].bind('mouseleave', hoverout)
+#--&gt;
 &lt;/script&gt;</t>
 <t tx="leo.20160506104441.1"></t>
 </tnodes>
