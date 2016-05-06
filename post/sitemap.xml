@@ -5,98 +5,105 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-04-28T17:08:23-00:00</lastmod>
+<lastmod>2016-05-06T04:07:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-04-28T17:08:23-00:00</lastmod>
+<lastmod>2016-05-06T04:07:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-04-28T17:08:23-00:00</lastmod>
+<lastmod>2016-05-06T04:07:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-04-28T17:08:23-00:00</lastmod>
+<lastmod>2016-05-06T04:07:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<loc>./admin-snapsvg-hui-tu-fan-li.html</loc>
+<lastmod>2016-05-06T03:30:23+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./40423116-qi-zhong-bao-gao.html</loc>
-<lastmod>2016-04-28T17:04:29+08:00</lastmod>
+<lastmod>2016-05-06T03:19:50+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./admin-wang-ji-nei-rong-guan-li.html</loc>
-<lastmod>2016-04-28T16:58:32+08:00</lastmod>
+<lastmod>2016-05-06T03:19:50+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./template-qi-dong-dian-nao-fu-zhu-ji-jie-she-ji-shou-ce-bian-ji.html</loc>
-<lastmod>2016-04-28T16:58:32+08:00</lastmod>
+<lastmod>2016-05-06T03:19:50+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/gui-hua.html</loc>
-<lastmod>2016-04-28T16:58:32+08:06</lastmod>
+<lastmod>2016-05-06T03:19:50+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/uncategorized.html</loc>
-<lastmod>2016-04-28T17:04:29+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/cadlab.html</loc>
-<lastmod>2016-04-28T17:04:29+08:06</lastmod>
+<lastmod>2016-05-06T03:30:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/manual.html</loc>
-<lastmod>2016-04-28T17:04:29+08:06</lastmod>
+<lastmod>2016-05-06T03:30:23+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/cadlab.html</loc>
+<lastmod>2016-05-06T03:30:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/mcad.html</loc>
-<lastmod>2016-04-28T17:04:29+08:06</lastmod>
+<lastmod>2016-05-06T03:30:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40423116.html</loc>
-<lastmod>2016-04-28T17:04:29+08:06</lastmod>
+<lastmod>2016-05-06T03:30:23+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/kmol.html</loc>
-<lastmod>2016-04-28T16:58:32+08:06</lastmod>
+<lastmod>2016-05-06T03:19:50+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
