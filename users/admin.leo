@@ -15,7 +15,7 @@
 <v t="amd.20160329164739.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="amd.20160329164739.2"><vh>@button gh-pages pelican</vh></v>
 </v>
-<v t="leo.20160408095026.1" a="E"><vh>wordpress</vh>
+<v t="leo.20160408095026.1"><vh>wordpress</vh>
 <v t="leo.20160408095046.1"><vh>@button new-to-wp</vh></v>
 <v t="leo.20160408095101.1"><vh>@button edit-to-wp </vh></v>
 <v t="leo.20160408095102.1"><vh>@button get-from-wp</vh></v>
@@ -32,8 +32,16 @@
 <v t="leo.20160401105037.1"><vh>@edit local_publishconf.py</vh></v>
 </v>
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
-<v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
+<v t="leo.20160513105356.1"><vh>@edit 40423116_cp_w1.md</vh></v>
+<v t="leo.20160513105554.1"><vh>@edit 40423116_cp_w11.md</vh></v>
+<v t="leo.20160513105600.1"><vh>@edit 40423116_cp_w12.md</vh></v>
+<v t="leo.20160513105605.1"><vh>@edit 40423116_cp_w13.md</vh></v>
+<v t="leo.20160513105611.1"><vh>@edit 40423116_cp_w14.md</vh></v>
+<v t="leo.20160513105620.1"><vh>@edit 40423116_cp_w15.md</vh></v>
+<v t="leo.20160513105637.1"><vh>@edit 40423116_cp_w17.md</vh></v>
+<v t="leo.20160513105644.1"><vh>@edit 40423116_cp_w2.md</vh></v>
+<v t="leo.20160513105652.1"><vh>@edit 40423116_cp_w3.md</vh></v>
 <v t="leo.20160401114622.1"><vh>@clean admin-20160401.md</vh>
 <v t="leo.20160429000043.1"><vh>155</vh></v>
 </v>
@@ -49,7 +57,6 @@
 <tnodes>
 <t tx="amd.20160329124554.2"></t>
 <t tx="amd.20160329124757.1"></t>
-<t tx="amd.20160329124849.1"></t>
 <t tx="amd.20160329124903.1"></t>
 <t tx="amd.20160329162138.1"></t>
 <t tx="amd.20160329163719.1"></t>

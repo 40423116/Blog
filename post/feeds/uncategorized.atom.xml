@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423116的網誌</title><link href="./" rel="alternate"></link><link href="./feeds/uncategorized.atom.xml" rel="self"></link><id>./</id><updated>2016-05-06T03:30:23+08:00</updated><entry><title>admin-snap.svg 繪圖範例</title><link href="./admin-snapsvg-hui-tu-fan-li.html" rel="alternate"></link><updated>2016-05-06T03:30:23+08:00</updated><author><name>40423116</name></author><id>tag:,2016-05-06:./admin-snapsvg-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;以下為使用snap.svg執行網頁繪圖範例&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423116的網誌</title><link href="./" rel="alternate"></link><link href="./feeds/uncategorized.atom.xml" rel="self"></link><id>./</id><updated>2016-05-13T10:45:28+08:00</updated><entry><title>admin-snap.svg 繪圖範例</title><link href="./admin-snapsvg-hui-tu-fan-li.html" rel="alternate"></link><updated>2016-05-13T10:45:28+08:00</updated><author><name>40423116</name></author><id>tag:,2016-05-13:./admin-snapsvg-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;以下為使用snap.svg執行網頁繪圖範例&lt;/p&gt;
 
 
 &lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
@@ -119,7 +119,7 @@ document['circle'].bind('click', ctogreen)
 document['tux'].bind('mouseover', hoverover)
 document['tux'].bind('mouseleave', hoverout)
 #--&gt;
-&lt;/script&gt;</summary><category term="CADLAB"></category><category term="Ｍanual"></category><category term="MCAD"></category></entry><entry><title>40423116-期中報告</title><link href="./40423116-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-06T03:19:50+08:00</updated><author><name>40423116</name></author><id>tag:,2016-05-06:./40423116-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40423116-期中報告&lt;/p&gt;
+&lt;/script&gt;</summary><category term="CADLAB"></category><category term="Ｍanual"></category><category term="MCAD"></category></entry><entry><title>40423116-期中報告</title><link href="./40423116-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-05-13T10:45:28+08:00</updated><author><name>40423116</name></author><id>tag:,2016-05-13:./40423116-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;40423116-期中報告&lt;/p&gt;
 
 
 &lt;h3&gt;&lt;a href="https://cmsimply-read40423116.rhcloud.com/"&gt;CMSimply 內容管理系統&lt;/a&gt;&lt;/h3&gt;
